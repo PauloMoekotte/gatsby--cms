@@ -9,7 +9,7 @@ tags:
     - brewing
     - chemex
 created: 2021-12-08T19:31:53.435Z
-modified: 2021-12-08T19:33:28.667Z
+modified: 2021-12-08T21:06:47.101Z
 ---
 ![chemex](/img/chemex.jpg)
 
@@ -19,7 +19,7 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 ## De kleine geheimen van Chemex brewing
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+De Chemex Coffeemaker bestaat uit een zandlopervormige glazen kolf met een conische trechtervormige hals (in plaats van de cilindrische hals van een erlenmeyer) en maakt gebruik van gepatenteerde filters, gemaakt van gebonden papier (dikker papier dan de standaard papieren filters voor een koffiezetter met druppelmethode) die de meeste koffie-oliën verwijdert en koffie zet met een andere smaak dan koffie die in andere koffiezetsystemen wordt gezet; ook kan het dikkere papier van de Chemex-koffiefilters helpen bij het verwijderen van cafestol, een cholesterolbevattende verbinding die wordt aangetroffen in koffie-oliën. Hier zijn drie belangrijke tips die nieuwkomers vergeten:
 
 1. Always buy dedicated Chemex filters.
 2. Use a scale, don’t try to eyeball it.
