@@ -9,7 +9,7 @@ tags:
     - brewing
     - chemex
 created: 2021-12-08T19:31:53.435Z
-modified: 2021-12-08T21:06:47.101Z
+modified: 2022-02-04T20:37:08.258Z
 ---
 ![chemex](/img/chemex.jpg)
 
@@ -17,7 +17,7 @@ This week we’ll **take** a look at all the steps required to make astonishing 
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## De kleine geheimen van Chemex brewing
+## De kleine geheimpjes van Chemex brewing
 
 De Chemex Coffeemaker bestaat uit een zandlopervormige glazen kolf met een conische trechtervormige hals (in plaats van de cilindrische hals van een erlenmeyer) en maakt gebruik van gepatenteerde filters, gemaakt van gebonden papier (dikker papier dan de standaard papieren filters voor een koffiezetter met druppelmethode) die de meeste koffie-oliën verwijdert en koffie zet met een andere smaak dan koffie die in andere koffiezetsystemen wordt gezet; ook kan het dikkere papier van de Chemex-koffiefilters helpen bij het verwijderen van cafestol, een cholesterolbevattende verbinding die wordt aangetroffen in koffie-oliën. Hier zijn drie belangrijke tips die nieuwkomers vergeten:
 
